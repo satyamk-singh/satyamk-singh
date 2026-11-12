@@ -1,129 +1,36 @@
-<div align="center">
 
-# Satyam Kumar Singh
+<h1 align="center">Hi 👋, I'm Satyam kumar Singh</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamk-singh&label=Profile%20views&color=0e75b6&style=flat" alt="satyamk-singh" /> </p>
 
-**Software Developer in Progress · B.Tech CSE, NIET Greater Noida**
+- 🔭 I’m currently working on **KUBEER - Automotive Information Platform**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamk-singh/satyam-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-singh-6b8437372)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamsingh11102005@gmail.com)
+- 🌱 I’m currently learning **PostgreSQL, FastAPI**
 
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/satyamk-singh?tab=repositories](https://github.com/satyamk-singh?tab=repositories)
 
----
+- 📫 How to reach me **satyamsingh11102005@gmail.com**
 
-## Introduction
 
-Hi, I'm Satyam, a second-year Computer Science Engineering student who enjoys building practical software and strengthening my problem-solving skills. I'm focused on learning new technologies and turning ideas into real-world applications.
+<h3 align="left">Connect with me:</h3>
 
----
+<img
+  align="right"
+  alt="Developer Coding Animation"
+  width="400"
+  src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+/>
 
-## About Me
 
-| | |
-|---|---|
-| **Name** | Satyam Kumar Singh |
-| **Education** | B.Tech in Computer Science Engineering, 2nd Year |
-| **College** | NIET Greater Noida |
-| **Location** | Jharkhand, India |
-| **Objective** | Securing internships and software engineering opportunities at leading technology companies such as Microsoft, Google, and other top MNCs |
-| **Focus** | Building practical projects, improving problem-solving, and learning new technologies |
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/satyam-kumar-singh-6b8437372" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/satyam-kumar-singh-6b8437372" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/satyam_9162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyam_9162" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Technical Skills
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamk-singh&show_icons=true&locale=en&layout=compact" alt="satyamk-singh" /></p>
 
-| Category | Technologies |
-|---|---|
-| **Programming** | C++ · Python · JavaScript · Java · SQL |
-| **Web Development** | HTML · CSS · FastAPI |
-| **Tools** | Git · GitHub · VS Code |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamk-singh&show_icons=true&locale=en" alt="satyamk-singh" /></p>
 
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-1a1a1a?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1a1a1a?style=flat-square&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
-
-</div>
-
----
-
-## Tools & Technologies
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-I am continuously learning and improving across these technologies through hands-on projects.
-
----
-
-## Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| [**Inventory Management System**](https://github.com/satyamk-singh/inventory-management-system) | A desktop application for managing inventory records. | Python, Tkinter |
-| [**Battleship Game**](https://github.com/satyamk-singh/Battleship-Game) | A graphical Battleship game built in C++. | C++, SFML |
-| [**LegalLabel**](https://github.com/satyamk-singh/LegalLabel) | Legal Metrology packaged commodity compliance checking project. | Python, FastAPI |
-
-More work is available in my [portfolio](https://github.com/satyamk-singh/satyam-portfolio) and on my [GitHub repositories](https://github.com/satyamk-singh?tab=repositories).
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=satyamk-singh&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&icon_color=ffffff&border_color=2a2a2a&hide_border=false" />
-
-</div>
-
----
-
-## Most Used Languages
-
-<div align="center">
-
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamk-singh&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9&border_color=2a2a2a&hide_border=false" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=satyamk-singh&theme=dark&background=0D0D0D&stroke=2A2A2A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9C9C9&sideLabels=C9C9C9&dates=8B8B8B&border=2A2A2A" />
-
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Kumar_Singh-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-singh-6b8437372)
-[![Email](https://img.shields.io/badge/Email-satyamsingh11102005@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamsingh11102005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-satyam--portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyamk-singh/satyam-portfolio)
-
-</div>
-
----
-
-<div align="center">
-
-*Building practical software, one project at a time. Open to internships and opportunities to learn, contribute, and grow as a software engineer.*
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamk-singh&" alt="satyamk-singh" /></p>
