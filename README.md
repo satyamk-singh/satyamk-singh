@@ -1,4 +1,4 @@
-![logo](https://github.com/satyamk-singh/satyamk-singh/blob/main/Neon%20Tech%20GitHub%20Developer%20Profile.png)
+![logo](https://github.com/satyamk-singh/satyamk-singh/blob/main/Neon%20Developer%20Portfolio%20Banner.png)
 <h1 align="center">Hi 👋, I'm Satyam kumar Singh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamk-singh&label=Profile%20views&color=0e75b6&style=flat" alt="satyamk-singh" /> </p>
 
